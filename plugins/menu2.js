@@ -45,7 +45,7 @@ cmd({
         const runtimeHours = Math.floor(runtimeMilliseconds / (1000 * 60 * 60));
 
         const formattedInfo = `
-🧙‍♂️ *ZANTA X-MD MENU* 🧙‍♂️
+🧙‍♂️ *DORA-MD MENU* 🧙‍♂️
 
 Hey 👋🏻 ${pushname}
 
